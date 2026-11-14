@@ -1,45 +1,47 @@
-# 📊 Golden Computer Company: Sales & Profitability Analysis Dashboard
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1D4350,100:A43931&height=150&section=header&text=Sales%20Performance%20Dashboard&fontSize=34&fontColor=ffffff" alt="Sales Performance Dashboard project banner" width="100%" />
 
-> لوحة مؤشرات تفاعلية شاملة لتحليل أداء المبيعات، الأرباح، واتجاهات العملاء لشركة Golden Computer Company خلال الأعوام (2019-2025).
+  <h1>Sales & Profitability Analysis Dashboard</h1>
+  <p><strong>Interactive sales, profit, geography, and shipping analysis in Excel</strong></p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Sales%20Analytics-1D4350?style=for-the-badge" alt="Sales Analytics" />
+  <img src="https://img.shields.io/badge/Interactive%20Dashboard-A43931?style=for-the-badge" alt="Interactive Dashboard" />
+</div>
 
----
+> An Excel dashboard exploring sales performance, profitability, customer trends, geography, and shipping for Golden Computer Company.
 
-## 🚀 1. Project Overview (نظرة عامة على المشروع)
-يهدف هذا المشروع إلى تحليل بيانات المبيعات والأرباح لشركة **Golden Computer Company** بهدف مساعدة صناع القرار على فهم توزيع الأرباح حسب الفئات (Categories)، الأقاليم الجغرافية (Regions)، وطرق الشحن (Ship Modes)، واستخراج رؤى استراتيجية لتحسين الأداء التجاري وزيادة الربحية.
+## Project Overview
 
----
+This project uses an interactive dashboard to help decision-makers review sales and profit patterns. Pivot Tables, charts, slicers, timelines, conditional formatting, and a map support exploration by region, category, and shipping method.
 
-## 🛠️ 2. Tech Stack & Tools (الأدوات والتقنيات المستخدمة)
-* **Microsoft Excel (Advanced):**
-  * **Pivot Tables & Pivot Charts:** لتلخيص واستخراج البيانات الضخمة.
-  * **Slicers & Timelines:** لربط وتصفية البيانات تفاعلياً (Interactive Filtering).
-  * **Conditional Formatting & Dashboard Design:** لتصميم واجهة مستخدم احترافية (UI/UX).
+## Tools & Methods
 
----
+- Microsoft Excel, Pivot Tables, and Pivot Charts
+- Slicers and timelines for interactive filtering
+- Conditional formatting and dashboard design
 
-## 📈 3. Key Performance Indicators (KPIs) & Metrics
-* **Total Orders (إجمالي الطلبات):** 1,000 طلب.
-* **Total Sales (إجمالي المبيعات):** $241,130.77
-* **Total Profits (إجمالي الأرباح):** $18,746.18
+## Key Metrics
 
----
+| Metric | Value |
+|---|---:|
+| Orders | 1,000 |
+| Sales | $241,130.77 |
+| Profit | $18,746.18 |
 
-## 🗺️ 4. Key Insights & Business Recommendations (أهم النتائج والتوصيات)
-1. **توزيع المبيعات جغرافياً:** أظهرت الخريطة التفاعلية أن الولايات الرئيسية مثل كاليفورنيا (California - 183 طلب) وتكساس (Texas - 92 طلب) تستحوذ على النصيب الأكبر من حجم المبيعات، مما يتيح فرصة لتركيز الحملات التسويقية في الولايات ذات الأداء المنخفض.
-2. **أداء الفئات (Categories):** قطاع **Office Supplies** يسجل أعلى عدد من الطلبات (201 طلب في الإقليم الأوسط)، بينما يحقق قطاع **Technology** مردوداً مالياً قوياً.
-3. **طرق الشحن (Ship Modes):** تبين من خلال تحليل `Ship Mode` أن غالبية العملاء يفضلون الشحن القياسي (Standard Class)، بينما تحتاج خيارات الشحن السريع (Same Day) إلى مراجعة تكلفتها لتحسين هوامش الربح.
+## Insights
 
----
+- California leads the highlighted geographic analysis with 183 orders.
+- Office Supplies has the highest order volume in the Central region (201 orders); Technology leads in profitability.
+- Standard Class is the most-used shipping method in the analysis.
 
-## 📸 5. Dashboard Preview (لقطات الشاشة)
+## Dashboard Preview
 
-### 🔹 الواجهة الرئيسية وتحليل المبيعات حسب المنطقة والفئة:
-![Dashboard Overview](assets/screenshot_1.png)
+### Sales by region and category
+![Sales dashboard overview](assets/screenshot_1.png)
 
-### 🔹 تحليل الأرباح حسب طرق الشحن (Ship Modes):
-![Ship Mode Analysis](assets/screenshot_2.png)
+### Profit by shipping mode
+![Shipping mode analysis](assets/screenshot_2.png)
 
----
+## Author
 
-## 👨‍💻 Author (إعداد)
-* **Osama Mohamed** - [GitHub Profile](https://github.com/Osama0Mohamed0DataAnalysis)
+**Osama Mohamed** · [GitHub Profile](https://github.com/Osama0Mohamed0Data0Analysis)
